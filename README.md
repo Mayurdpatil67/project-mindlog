@@ -1,1 +1,1 @@
-## A Project Mindlog
+## A Journal Application
